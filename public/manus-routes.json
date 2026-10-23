@@ -1,0 +1,11 @@
+{
+  "routes": [
+    { "path": "/", "title": "SEVA Charitable Trust Harnai | Humanity Begins Here" },
+    { "path": "/about/", "title": "About SEVA Charitable Trust Harnai" },
+    { "path": "/our-work/", "title": "Our Work | SEVA Charitable Trust Harnai" },
+    { "path": "/activities/", "title": "Activities & Projects | SEVA Charitable Trust Harnai" },
+    { "path": "/gallery/", "title": "Gallery | SEVA Charitable Trust Harnai" },
+    { "path": "/get-involved/", "title": "Get Involved | SEVA Charitable Trust Harnai" },
+    { "path": "/contact/", "title": "Contact SEVA Charitable Trust Harnai" }
+  ]
+}
